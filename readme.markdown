@@ -25,4 +25,5 @@ Sources:
 + https://pianomanfrazier.com/post/write-a-book-with-markdown/
 + http://cdsoft.fr/pp/
 + https://pianomanfrazier.com/post/write-a-book-with-markdown/
-+ https://github.com/Wandmalfarbe/pandoc-latex-template
++ https://www.latextemplates.com/cat/books
+  + https://github.com/Wandmalfarbe/pandoc-latex-template
