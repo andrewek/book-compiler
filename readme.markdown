@@ -10,6 +10,7 @@ We want to be able to:
 + Render highlighted code in a variety of languages
 + Have a dynamically-created table of contents
 + Page numbers, etc.
++ Properly resize and compress images
 + Be able to render diagrams like what you might create with GraphViz, etc.
 + Use some sort of theming on the output
 
