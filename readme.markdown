@@ -14,6 +14,9 @@ We want to be able to:
 + Be able to render diagrams like what you might create with GraphViz, etc.
 + Use some sort of theming on the output
 
+Ideally, we can define steps, choose options, define dependencies, and set
+variables with a JSON file or something like that.
+
 Our pipeline will probably be:
 
 1. Markdown -> base content
