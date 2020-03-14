@@ -1,4 +1,4 @@
-# Book Compilation Project
+# Bookbinder
 
 Goal: Given structured markdown, output a beautiful-ish PDF with a simple bash
 script. We want to package this script in some shareable way so that it can be
